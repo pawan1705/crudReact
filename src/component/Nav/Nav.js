@@ -7,17 +7,17 @@ const Nav = () => {
       <div className="box">
       <div className="first">
     <p><Link to='/first' >First</Link></p>
-    <p><Link to='/'>Second</Link></p>
+    <p><Link to='/second'>Second</Link></p>
     <p><Link to='/'>Third</Link></p>
     <p><Link to='/'>Fourth</Link></p>
     </div>
     <div className="center">
-      <p>Pawan Sangare</p>
+      <p></p>
     </div>
     <div className="second">
-    <p><Link to='/'>First</Link></p>
-    <p><Link to='/'>Second</Link></p>
-    <p><Link to='/'>Third</Link></p>
+    <p><Link to='/'>Create</Link></p>
+    <p><Link to='/read'>Read</Link></p>
+    <p><Link to='/update'>Update</Link></p>
     <p><Link to='/'>Fourth</Link></p>
     </div>
       </div>
