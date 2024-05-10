@@ -1,0 +1,38 @@
+export const empData=[
+    {
+        id:1,
+        firstName:"pawan",
+        lastName:"sangare",
+        age:27
+    },
+    {
+        id:2,
+        firstName:"anchal",
+        lastName:"gupta",
+        age:21
+    },
+    {
+        id:3,
+        firstName:"anamika ",
+        lastName:"kashyap",
+        age:0
+    },
+    {
+        id:4,
+        firstName:"vishal",
+        lastName:"sangare",
+        age:29
+    },
+    {
+        id:5,
+        firstName:"laxman",
+        lastName:"sangare",
+        age:55
+    },
+    {
+        id:6,
+        firstName:"kaushlya",
+        lastName:"sangare",
+        age:50
+    },
+]
